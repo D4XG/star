@@ -1,0 +1,526 @@
+{
+  "name": "Người dùng Facebook",
+  "ID": "100091242273432",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 30,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 315120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 38,
+      "name": "The Watching Eye",
+      "category": "Epic",
+      "size": 1530,
+      "sell": 98700,
+      "image": "https://i.imgur.com/6m92P5R.png"
+    },
+    {
+      "ID": 41,
+      "name": "The Watching Eye",
+      "category": "Epic",
+      "size": 1530,
+      "sell": 98700,
+      "image": "https://i.imgur.com/6m92P5R.png"
+    },
+    {
+      "ID": 42,
+      "name": "Elder Tetracis",
+      "category": "Epic",
+      "size": 134,
+      "sell": 12600,
+      "image": "https://i.imgur.com/F98J6qj.jpg"
+    },
+    {
+      "ID": 50,
+      "name": "The Watching Eye",
+      "category": "Epic",
+      "size": 1530,
+      "sell": 98700,
+      "image": "https://i.imgur.com/6m92P5R.png"
+    },
+    {
+      "ID": 115,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 117,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 118,
+      "name": "Small Tetracis",
+      "category": "Common",
+      "size": 15,
+      "sell": 200,
+      "image": "https://i.imgur.com/mGNV13j.jpg"
+    },
+    {
+      "ID": 119,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 2107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 120,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 121,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 122,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 123,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 124,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 125,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 126,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 127,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 128,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 129,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 130,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 131,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 132,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 133,
+      "name": "Ralmes Clossus Leviathan",
+      "category": "Spectral",
+      "size": 86700,
+      "sell": 875000000,
+      "image": "https://i.imgur.com/BHj2NLN.jpg"
+    },
+    {
+      "ID": 134,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 135,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 136,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 137,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 138,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 139,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 140,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 141,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 142,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 143,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 144,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 145,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 146,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 147,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 148,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 149,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 150,
+      "name": "Ralmes Clossus Leviathan",
+      "category": "Spectral",
+      "size": 86700,
+      "sell": 875000000,
+      "image": "https://i.imgur.com/BHj2NLN.jpg"
+    },
+    {
+      "ID": 151,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 152,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 153,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 154,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 155,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 156,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 157,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 158,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 159,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 160,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 161,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 162,
+      "name": "Ralmes Clossus Leviathan",
+      "category": "Spectral",
+      "size": 86700,
+      "sell": 875000000,
+      "image": "https://i.imgur.com/BHj2NLN.jpg"
+    },
+    {
+      "ID": 163,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 164,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 165,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 166,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 167,
+      "name": "Ralmes Clossus Leviathan",
+      "category": "Spectral",
+      "size": 86700,
+      "sell": 875000000,
+      "image": "https://i.imgur.com/BHj2NLN.jpg"
+    },
+    {
+      "ID": 168,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 169,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 30458000,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 170,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 200,
+      "countdown": 150,
+      "countdownData": 1698837332623,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    },
+    {
+      "name": "Siluria's Tree Trident",
+      "price": 1477880,
+      "durability": 4010,
+      "countdown": 30,
+      "countdownData": 1698901657130,
+      "image": "https://i.imgur.com/suGsoXj.png"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 15675900,
+      "durability": 18890,
+      "countdown": 10,
+      "countdownData": 1699521536236,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "13:58:17 31/10/2023"
+}

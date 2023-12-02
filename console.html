@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Console Viewer</title>
+</head>
+<body>
+  <h1>Console Viewer</h1>
+  <div id="consoleOutput"></div>
+
+  <script>
+    function captureConsoleLogs() {
+      var consoleOutput = document.getElementById('consoleOutput');
+
+      var originalConsoleLog = console.log;
+
+      console.log = function() {
+        originalConsoleLog.apply(console, arguments);
+
+        // Append the log to the HTML element
+        consoleOutput.innerHTML += Array.from(arguments).join(' ') + '<br>';
+      };
+    }
+
+    window.onload = function() {
+      captureConsoleLogs();
+
+      // Example usage
+      console.log('Hello, this is a console log!');
+      console.log('You can see it in real-time on the page.');
+    };
+  </script>
+</body>
+</html>

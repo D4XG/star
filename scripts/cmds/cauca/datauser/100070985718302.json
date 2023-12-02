@@ -1,0 +1,46 @@
+{
+  "name": "Roman Heisenberg",
+  "ID": "100070985718302",
+  "mainROD": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Unknown Ocean (Additional Ver)",
+    "area": "Absolutely Patient Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 15675900,
+      "durability": 27500,
+      "countdown": 10,
+      "countdownData": 1698945383651,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 754900000,
+      "durability": 65130,
+      "countdown": 7,
+      "countdownData": 1701265886470,
+      "image": "https://i.imgur.com/rBND6k0.png"
+    }
+  ],
+  "timeRegister": "00:11:54 3/11/2023"
+}

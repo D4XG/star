@@ -1,0 +1,54 @@
+{
+  "name": "Người dùng Facebook",
+  "ID": "100070773281186",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Unknown Ocean (Additional Ver)",
+    "area": "Shallow Twisty Bridges – Twisty Bridges"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 2,
+      "name": "Medium Tetracis",
+      "category": "Uncommon",
+      "size": 34,
+      "sell": 400,
+      "image": "https://i.imgur.com/tzZA92b.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 0,
+      "countdown": 300,
+      "countdownData": 1698810930695,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 15675900,
+      "durability": 26670,
+      "countdown": 10,
+      "countdownData": 1700833754525,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "10:43:36 1/11/2023"
+}

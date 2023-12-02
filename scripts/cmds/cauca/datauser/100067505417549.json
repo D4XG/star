@@ -1,0 +1,62 @@
+{
+  "name": "Người dùng Facebook",
+  "ID": "100067505417549",
+  "mainROD": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Unknown Ocean (Additional Ver)",
+    "area": "Absolutely Patient Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 2,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1698845092786,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Subzero Trident",
+      "price": 478700,
+      "durability": 1260,
+      "countdown": 45,
+      "countdownData": 1699108552224,
+      "image": "https://i.imgur.com/Y9oZJeJ.png"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 15675900,
+      "durability": 27250,
+      "countdown": 10,
+      "countdownData": 1699164621438,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 754900000,
+      "durability": 72750,
+      "countdown": 7,
+      "countdownData": 1701264548103,
+      "image": "https://i.imgur.com/rBND6k0.png"
+    }
+  ],
+  "timeRegister": "20:16:08 1/11/2023"
+}

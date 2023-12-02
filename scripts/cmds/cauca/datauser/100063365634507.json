@@ -1,0 +1,478 @@
+{
+  "name": "Dưa Hấu",
+  "ID": "100063365634507",
+  "mainROD": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Lilypad Islands"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 3,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 4,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 5,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 8,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 10,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 11,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 12,
+      "name": "Squidshark",
+      "category": "Rare",
+      "size": 11,
+      "sell": 6280,
+      "image": "https://i.imgur.com/OTyFBsE.png"
+    },
+    {
+      "ID": 14,
+      "name": "Squidshark",
+      "category": "Rare",
+      "size": 11,
+      "sell": 6280,
+      "image": "https://i.imgur.com/OTyFBsE.png"
+    },
+    {
+      "ID": 16,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 17,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 18,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 19,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 1970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 20,
+      "name": "Brute Shark",
+      "category": "Rare",
+      "size": 560,
+      "sell": 3100,
+      "image": "https://i.imgur.com/uhCtIkO.png"
+    },
+    {
+      "ID": 21,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 22,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 24,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 25,
+      "name": "Brute Shark",
+      "category": "Rare",
+      "size": 560,
+      "sell": 3100,
+      "image": "https://i.imgur.com/uhCtIkO.png"
+    },
+    {
+      "ID": 26,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 27,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 29,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 1970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 30,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 33,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 35,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 37,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 38,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 40,
+      "name": "Squidshark",
+      "category": "Rare",
+      "size": 11,
+      "sell": 6280,
+      "image": "https://i.imgur.com/OTyFBsE.png"
+    },
+    {
+      "ID": 41,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 42,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 43,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 44,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 45,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 1970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 46,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 47,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 48,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 51,
+      "name": "Brute Shark",
+      "category": "Rare",
+      "size": 560,
+      "sell": 3100,
+      "image": "https://i.imgur.com/uhCtIkO.png"
+    },
+    {
+      "ID": 52,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 53,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 54,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 55,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 56,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 57,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 1970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 58,
+      "name": "Feather Fish",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 410,
+      "image": "https://i.imgur.com/hvfqv6n.png"
+    },
+    {
+      "ID": 59,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 60,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 61,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 62,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 63,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 64,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 65,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 66,
+      "name": "Feather Fish",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 410,
+      "image": "https://i.imgur.com/hvfqv6n.png"
+    },
+    {
+      "ID": 67,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 68,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 69,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 70,
+      "countdown": 150,
+      "countdownData": 1699119996396,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    },
+    {
+      "name": "Siluria's Tree Trident",
+      "price": 1477880,
+      "durability": 4700,
+      "countdown": 35,
+      "countdownData": null,
+      "image": "https://i.imgur.com/suGsoXj.png"
+    },
+    {
+      "name": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 754900000,
+      "durability": 73660,
+      "countdown": 7,
+      "countdownData": 1699718813629,
+      "image": "https://i.imgur.com/rBND6k0.png"
+    }
+  ],
+  "timeRegister": "21:19:33 3/11/2023"
+}

@@ -1,0 +1,150 @@
+{
+  "name": "Mộtsángemngồiđanmócđanmócđan Anhngồixemđátanđátan",
+  "ID": "100069227186040",
+  "mainROD": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 443,
+      "name": "Elder Tetracis",
+      "category": "Epic",
+      "size": 134,
+      "sell": 12600,
+      "image": "https://i.imgur.com/F98J6qj.jpg"
+    },
+    {
+      "ID": 444,
+      "name": "Void Thresher",
+      "category": "Epic",
+      "size": 2495,
+      "sell": 134360,
+      "image": "https://i.imgur.com/Ek4rAfS.png"
+    },
+    {
+      "ID": 450,
+      "name": "Elder Tetracis",
+      "category": "Epic",
+      "size": 134,
+      "sell": 12600,
+      "image": "https://i.imgur.com/F98J6qj.jpg"
+    },
+    {
+      "ID": 462,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 463,
+      "name": "Small Tetracis",
+      "category": "Common",
+      "size": 15,
+      "sell": 200,
+      "image": "https://i.imgur.com/mGNV13j.jpg"
+    },
+    {
+      "ID": 464,
+      "name": "Medium Tetracis",
+      "category": "Uncommon",
+      "size": 34,
+      "sell": 400,
+      "image": "https://i.imgur.com/tzZA92b.jpg"
+    },
+    {
+      "ID": 465,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 466,
+      "name": "Medium Tetracis",
+      "category": "Uncommon",
+      "size": 34,
+      "sell": 400,
+      "image": "https://i.imgur.com/tzZA92b.jpg"
+    },
+    {
+      "ID": 467,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 468,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 469,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 0,
+      "countdown": 300,
+      "countdownData": 1698732491920,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 0,
+      "countdown": 200,
+      "countdownData": 1698764514821,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    },
+    {
+      "name": "Siluria's Tree Trident",
+      "price": 1477880,
+      "durability": 1940,
+      "countdown": 30,
+      "countdownData": 1698931604528,
+      "image": "https://i.imgur.com/suGsoXj.png"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 15675900,
+      "durability": 26830,
+      "countdown": 10,
+      "countdownData": 1698965608684,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 754900000,
+      "durability": 57090,
+      "countdown": 7,
+      "countdownData": 1701315457486,
+      "image": "https://i.imgur.com/rBND6k0.png"
+    }
+  ],
+  "timeRegister": "13:00:50 31/10/2023"
+}

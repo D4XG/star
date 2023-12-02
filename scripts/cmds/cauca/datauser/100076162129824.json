@@ -1,0 +1,493 @@
+{
+  "name": "Duy Anh",
+  "ID": "100076162129824",
+  "mainROD": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Safe Shallows"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 35345800,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 5,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 8,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 11,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 12,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 13,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 15,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 19,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 20,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 21,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 22,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 27,
+      "name": "Void Thresher",
+      "category": "Epic",
+      "size": 2495,
+      "sell": 134360,
+      "image": "https://i.imgur.com/Ek4rAfS.png"
+    },
+    {
+      "ID": 29,
+      "name": "The Peel",
+      "category": "Rare",
+      "size": 970,
+      "sell": 8200,
+      "image": "https://i.imgur.com/uKh9b7N.png"
+    },
+    {
+      "ID": 31,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 2107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 33,
+      "name": "Chelicerate",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 1876500,
+      "image": "https://i.imgur.com/PaeEsyM.png"
+    },
+    {
+      "ID": 34,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 36,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 39,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 41,
+      "name": "Chelicerate",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 1876500,
+      "image": "https://i.imgur.com/PaeEsyM.png"
+    },
+    {
+      "ID": 44,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 315120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 46,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 48,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 49,
+      "name": "Pengling",
+      "category": "Uncommon",
+      "size": 63,
+      "sell": 650,
+      "image": "https://i.imgur.com/Qy0kJT5.png"
+    },
+    {
+      "ID": 50,
+      "name": "Pengling",
+      "category": "Uncommon",
+      "size": 63,
+      "sell": 650,
+      "image": "https://i.imgur.com/Qy0kJT5.png"
+    },
+    {
+      "ID": 51,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "ID": 53,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 55,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 56,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 315120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 57,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 315120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 61,
+      "name": "Bulldog Trapjaw",
+      "category": "Rare",
+      "size": 325,
+      "sell": 4360,
+      "image": "https://i.imgur.com/D6VEevg.png"
+    },
+    {
+      "ID": 63,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 65,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 67,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 69,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 71,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 73,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 75,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 76,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 78,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 79,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 81,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 83,
+      "name": "Lemon Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/2XFEyFf.png"
+    },
+    {
+      "ID": 85,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 470,
+      "sell": 2800,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 86,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 470,
+      "sell": 2800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 87,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 470,
+      "sell": 2800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 88,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 470,
+      "sell": 2800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 10675900,
+      "durability": 27280,
+      "countdown": 10,
+      "countdownData": null,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "Aquaman Trident",
+      "price": 2675000,
+      "durability": 6000,
+      "countdown": 15,
+      "countdownData": null,
+      "image": "https://i.imgur.com/rcVtflR.png"
+    },
+    {
+      "name": "Siluria's Tree Trident",
+      "price": 1477880,
+      "durability": 5000,
+      "countdown": 25,
+      "countdownData": null,
+      "image": "https://i.imgur.com/suGsoXj.png"
+    },
+    {
+      "name": "Mohgwyn's Sacred Trident",
+      "price": 1099000,
+      "durability": 4500,
+      "countdown": 35,
+      "countdownData": null,
+      "image": "https://i.imgur.com/qB027it.png"
+    },
+    {
+      "name": "Subzero Trident",
+      "price": 978700,
+      "durability": 3000,
+      "countdown": 45,
+      "countdownData": null,
+      "image": "https://i.imgur.com/Y9oZJeJ.png"
+    },
+    {
+      "name": "Chamber ULTIMATE Operator",
+      "price": 13123500,
+      "durability": 19920,
+      "countdown": 14,
+      "countdownData": 1698926536480,
+      "image": "https://i.imgur.com/7RYN1zT.jpg"
+    },
+    {
+      "name": "Harpak LASER",
+      "price": 13123500,
+      "durability": 15860,
+      "countdown": 18,
+      "countdownData": 1698921763218,
+      "image": "https://i.imgur.com/XcOc4tA.png"
+    },
+    {
+      "name": "Dual Dragonic Harpoon Gun",
+      "price": 10567800,
+      "durability": 15850,
+      "countdown": 24,
+      "countdownData": null,
+      "image": "https://i.imgur.com/41xF99z.png"
+    },
+    {
+      "name": "TESLA Gun",
+      "price": 5795000,
+      "durability": 13750,
+      "countdown": 28,
+      "countdownData": null,
+      "image": "https://i.imgur.com/s2J5igr.jpg"
+    },
+    {
+      "name": "𝕺𝖗𝖉𝖊𝖗 𝖔𝖋 𝕾𝖔𝖚𝖑𝖘 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 754900000,
+      "durability": 73810,
+      "countdown": 7,
+      "countdownData": 1701172608995,
+      "image": "https://i.imgur.com/rBND6k0.png"
+    }
+  ],
+  "timeRegister": "21:30:14, 15/6/2023"
+}

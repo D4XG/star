@@ -1,0 +1,48 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": "41evQ35wp4YYT6qhKVyNrpOq5CpHs6m7"
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 4
+    },
+    "dhbc": {
+      "reward": 1250
+    },
+    "botnick": {
+      "delayPerGroup": 50
+    },
+    "info": {},
+    "console": {},
+    "hi": {},
+    "subnautica": {
+      "APIKEY": ""
+    },
+    "auto": {}
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "00ai.js"
+  ]
+}

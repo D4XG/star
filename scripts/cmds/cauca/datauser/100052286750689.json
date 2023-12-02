@@ -1,0 +1,38 @@
+{
+  "name": "Tiến Đạt",
+  "ID": "100052286750689",
+  "mainROD": "Steel Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Safe Shallows"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Garryfish",
+      "category": "Common",
+      "size": 37,
+      "sell": 250,
+      "image": "https://i.imgur.com/CNzSzIY.png"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 20,
+      "countdown": 250,
+      "countdownData": 1698815047185,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "timeRegister": "13:11:30 31/10/2023"
+}

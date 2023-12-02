@@ -1,0 +1,70 @@
+{
+  "name": "Phạm Lê Xuân Trường",
+  "ID": "100073280626414",
+  "mainROD": "Harpak",
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 20,
+      "countdown": 200,
+      "countdownData": null,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 547000,
+      "durability": 1000,
+      "countdown": 10,
+      "countdownData": null,
+      "image": "https://i.imgur.com/rfQ7KyF.png"
+    },
+    {
+      "name": "Dual Dragonic Harpoon Gun",
+      "price": 50795000,
+      "durability": 5000,
+      "countdown": 1,
+      "countdownData": null,
+      "image": "https://i.imgur.com/41xF99z.png"
+    },
+    {
+      "name": "Harpak",
+      "price": 1312350000,
+      "durability": 120000,
+      "countdown": 1,
+      "countdownData": null,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 12675000,
+      "durability": 27750,
+      "countdown": 5,
+      "countdownData": null,
+      "image": "https://i.imgur.com/1CwNrxL.png"
+    },
+    {
+      "name": "Frenzy Harpoon gun",
+      "price": 65617500,
+      "durability": 6000,
+      "countdown": 1,
+      "countdownData": null,
+      "image": "https://i.imgur.com/XcOc4tA.png"
+    }
+  ],
+  "timeRegister": "23:39:53 30/10/2023"
+}

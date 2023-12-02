@@ -1,0 +1,270 @@
+{
+  "name": "Tran Bao",
+  "ID": "100046586095360",
+  "mainROD": "D.U Core Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Crystal Caves"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 3,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 4,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 5,
+      "name": "Rock Puncher",
+      "category": "Rare",
+      "size": 2,
+      "sell": 5890,
+      "image": "https://i.imgur.com/5f8kjk5.png"
+    },
+    {
+      "ID": 6,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 7,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 8,
+      "name": "Shadow Leviathan",
+      "category": "Legendary",
+      "size": 6000,
+      "sell": 1850700,
+      "image": "https://i.imgur.com/dinzzWr.png"
+    },
+    {
+      "ID": 9,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 10,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 11,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 12,
+      "name": "Rock Puncher",
+      "category": "Rare",
+      "size": 2,
+      "sell": 5890,
+      "image": "https://i.imgur.com/5f8kjk5.png"
+    },
+    {
+      "ID": 13,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 14,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 15,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 16,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 17,
+      "name": "Rock Puncher",
+      "category": "Rare",
+      "size": 2,
+      "sell": 5890,
+      "image": "https://i.imgur.com/5f8kjk5.png"
+    },
+    {
+      "ID": 18,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 19,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 20,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 21,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 22,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 23,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 24,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 25,
+      "name": "Rock Puncher",
+      "category": "Rare",
+      "size": 2,
+      "sell": 5890,
+      "image": "https://i.imgur.com/5f8kjk5.png"
+    },
+    {
+      "ID": 26,
+      "name": "Rock Puncher",
+      "category": "Rare",
+      "size": 2,
+      "sell": 5890,
+      "image": "https://i.imgur.com/5f8kjk5.png"
+    },
+    {
+      "ID": 27,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 28,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 29,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 0,
+      "countdown": 200,
+      "countdownData": 1699025866441,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    },
+    {
+      "name": "D.U Core Harpoon",
+      "price": 17500,
+      "durability": 390,
+      "countdown": 100,
+      "countdownData": 1699362757902,
+      "image": "https://i.imgur.com/vWRvdAP.png"
+    }
+  ],
+  "timeRegister": "20:09:22 2/11/2023"
+}

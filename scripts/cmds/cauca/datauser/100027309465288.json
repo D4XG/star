@@ -1,0 +1,318 @@
+{
+  "name": "Người dùng Facebook",
+  "ID": "100027309465288",
+  "mainROD": "TESLA Gun",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 2,
+      "name": "Emerald Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/qTm1lzD.png"
+    },
+    {
+      "ID": 4,
+      "name": "Hoverfish",
+      "category": "Uncommon",
+      "size": 38,
+      "sell": 420,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/wQZRj9t.png"
+    },
+    {
+      "ID": 5,
+      "name": "The Bloop",
+      "category": "Legendary",
+      "size": 3000,
+      "sell": 730600,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/LkQDqFb.png"
+    },
+    {
+      "ID": 7,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 7480,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 8,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 7480,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 9,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 10,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 7480,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 11,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 7480,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 15,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 16,
+      "name": "Twisteel",
+      "category": "Epic",
+      "size": 1800,
+      "sell": 56400,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/XdXZ3p2.png"
+    },
+    {
+      "ID": 18,
+      "name": "Sapphire Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/h1KsPNo.png"
+    },
+    {
+      "ID": 20,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 21,
+      "name": "Twisteel",
+      "category": "Epic",
+      "size": 1800,
+      "sell": 56400,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/XdXZ3p2.png"
+    },
+    {
+      "ID": 22,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://api.kieuduyanh.repl.co/upload?url=https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 23,
+      "name": "Sapphire Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://i.imgur.com/h1KsPNo.png"
+    },
+    {
+      "ID": 24,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 1720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 25,
+      "name": "Sapphire Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://i.imgur.com/h1KsPNo.png"
+    },
+    {
+      "ID": 26,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 27,
+      "name": "Twisteel",
+      "category": "Epic",
+      "size": 1800,
+      "sell": 56400,
+      "image": "https://i.imgur.com/XdXZ3p2.png"
+    },
+    {
+      "ID": 28,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "ID": 29,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 30,
+      "name": "Sapphire Clown Pincher",
+      "category": "Uncommon",
+      "size": 36,
+      "sell": 500,
+      "image": "https://i.imgur.com/h1KsPNo.png"
+    },
+    {
+      "ID": 31,
+      "name": "Mesmer",
+      "category": "Rare",
+      "size": 67,
+      "sell": 1990,
+      "image": "https://i.imgur.com/UUfnPCp.png"
+    },
+    {
+      "ID": 32,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "ID": 35,
+      "name": "Jasper Thallassacean",
+      "category": "Epic",
+      "size": 1190,
+      "sell": 45600,
+      "image": "https://i.imgur.com/nuEp4sZ.png"
+    },
+    {
+      "ID": 37,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "ID": 38,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "ID": 39,
+      "name": "Jasper Thallassacean",
+      "category": "Epic",
+      "size": 1190,
+      "sell": 45600,
+      "image": "https://i.imgur.com/nuEp4sZ.png"
+    },
+    {
+      "ID": 40,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 42,
+      "name": "River Prowler",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4100,
+      "image": "https://i.imgur.com/vyRypZv.jpg"
+    },
+    {
+      "ID": 43,
+      "name": "Ghostray",
+      "category": "Uncommon",
+      "size": 250,
+      "sell": 990,
+      "image": "https://i.imgur.com/UC5HJWw.png"
+    },
+    {
+      "ID": 44,
+      "name": "Mesmer",
+      "category": "Rare",
+      "size": 67,
+      "sell": 1990,
+      "image": "https://i.imgur.com/UUfnPCp.png"
+    },
+    {
+      "ID": 45,
+      "name": "Large Tetracis",
+      "category": "Rare",
+      "size": 60,
+      "sell": 1800,
+      "image": "https://i.imgur.com/RWN0poW.jpg"
+    },
+    {
+      "ID": 46,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 47,
+      "name": "Medium Tetracis",
+      "category": "Uncommon",
+      "size": 34,
+      "sell": 400,
+      "image": "https://i.imgur.com/tzZA92b.jpg"
+    }
+  ],
+  "point": 0,
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 30,
+      "countdown": 300,
+      "countdownData": 1698929902105,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "TESLA Gun",
+      "price": 5795000,
+      "durability": 13000,
+      "countdown": 28,
+      "countdownData": 1699762544117,
+      "image": "https://i.imgur.com/s2J5igr.jpg"
+    }
+  ],
+  "timeRegister": "12:19:14 31/10/2023"
+}
