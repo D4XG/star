@@ -76,7 +76,7 @@ module.exports = {
       await threadsData.set(event.threadID, null, "data.prefix");
 
       // Use the default nickname when resetting the prefix
-      const defaultNickname = "[ # ] • STAR"; // Change this to the desired default nickname
+      const defaultNickname = "[ / ] • STAR"; // Change this to the desired default nickname
 
       try {
         // Get the bot's user ID

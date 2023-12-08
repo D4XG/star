@@ -1,3 +1,5 @@
+
+
 const fs = require("fs-extra");
 const axios = require("axios");
 const ytdl = require("ytdl-core");
@@ -51,16 +53,16 @@ const downloadMusicFromYoutube = async (link, path, itag = 249) => {
     return console.log(e);
   }
 };
-
+ 
 const langs = {
   vi: {
-    info: "=======「 📻 」=======\n\n                       📋\n%1\n⭐ | Channel: %2\n😍 | Subscriber: %3\n⌛ | Length %4\n👀 | Views: %5\n👍 | Likes: %6\n⌚ | Upload: %7\n🔠 | ID: %8\n🔗 | Link: %9",
+    info: "=======「 ? 」=======\n\n                       ?\n%1\n⭐ | Channel: %2\n? | Subscriber: %3\n⌛ | Length %4\n? | Views: %5\n? | Likes: %6\n⌚ | Upload: %7\n? | ID: %8\n? | Link: %9",
   },
   en: {
-    info: "=======「 📻 」=======\n\n                       📋\n%1\n⭐ | Channel: %2\n😍 | Subscriber: %3\n⌛ | Length %4\n👀 | Views: %5\n👍 | Likes: %6\n⌚ | Upload: %7\n🔠 | ID: %8\n🔗 | Link: %9",
+    info: "=======「 ? 」=======\n\n                       ?\n%1\n⭐ | Channel: %2\n? | Subscriber: %3\n⌛ | Length %4\n? | Views: %5\n? | Likes: %6\n⌚ | Upload: %7\n? | ID: %8\n? | Link: %9",
   },
 };
-
+ 
 const onReply = async ({ api, event, Reply, message, getLang }) => {
   try {
     const { type } = Reply;
@@ -72,23 +74,23 @@ const onReply = async ({ api, event, Reply, message, getLang }) => {
         path,
         18
       );
-
-      if (fs.statSync(data).size > 26214400)
+ 
+      if (fs.statSync(data).size &gt; 262144000)
         return message.reply(
           "Không thể gửi file vì dung lượng lớn hơn 25MB.",
           () => fs.unlinkSync(path)
         );
       api.unsendMessage(Reply.messageID);
       const messages = {
-        body: `=======「 📻 」=======\n\n                       📋\n${
+        body: `=======「 ? 」=======\n\n                       ?\n${
           info.title
         }\n⭐ | Channel: ${info.author}\n⌚ | Upload: ${
           info.publishDate
-        }\n⌛ | Length: ${convertHMS(info.dur)}\n👀 | Views: ${
+        }\n⌛ | Length: ${convertHMS(info.dur)}\n? | Views: ${
           info.viewCount
-        }\n🖥 | Delay: ${Math.floor(
+        }\n? | Delay: ${Math.floor(
           (Date.now() - info.timestart) / 1000
-        )}ms\n🔗 | Download: youtubepp.com/watch?v=${
+        )}ms\n? | Download: youtubepp.com/watch?v=${
           Reply.link[event.body - 1]
         }\n\n  ⇆ㅤㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤㅤ↻`,
         attachment: fs.createReadStream(data),
@@ -104,7 +106,7 @@ const onReply = async ({ api, event, Reply, message, getLang }) => {
       try {
         getChapters =
           data.response.playerOverlays.playerOverlayRenderer.decoratedPlayerBarRenderer.decoratedPlayerBarRenderer.playerBar.multiMarkersPlayerBarRenderer.markersMap.find(
-            (x) => x.key == "DESCRIPTION_CHAPTERS" && x.value.chapters
+            (x) =&gt; x.key == "DESCRIPTION_CHAPTERS" && x.value.chapters
           ).value.chapters;
       } catch (e) {
         getChapters = [];
@@ -141,7 +143,7 @@ const onReply = async ({ api, event, Reply, message, getLang }) => {
           const end_time =
             getChapters[i + 1]?.chapterRenderer?.timeRangeStartMillis ||
             lengthSeconds.match(/\d+/)[0] * 1000;
-
+ 
           return {
             title: x.chapterRenderer.title.simpleText,
             start_time_ms: start_time,
@@ -205,23 +207,23 @@ const onReply = async ({ api, event, Reply, message, getLang }) => {
         path,
         18
       );
-
-      if (fs.statSync(data).size > 26214400)
+ 
+      if (fs.statSync(data).size &gt; 26214400)
         return message.reply(
           "Không thể gửi file vì dung lượng lớn hơn 25MB.",
           () => fs.unlinkSync(path)
         );
       api.unsendMessage(Reply.messageID);
       const messages = {
-        body: `=======「 📻 」=======\n\n                       📋\n ${
+        body: `=======「 ? 」=======\n\n                       ?\n ${
           info.title
         }\n⭐ | Channel: ${info.author}\n⌚ | Upload: ${
           info.publishDate
-        }\n⌛ | Length: ${convertHMS(info.dur)}\n👀 | Views: ${
+        }\n⌛ | Length: ${convertHMS(info.dur)}\n? | Views: ${
           info.viewCount
-        }\n🖥 | Delay: ${Math.floor(
+        }\n? | Delay: ${Math.floor(
           (Date.now() - info.timestart) / 1000
-        )}ms\n🔗 | Download: youtubepp.com/watch?v=${
+        )}ms\n? | Download: youtubepp.com/watch?v=${
           Reply.link[event.body - 1]
         }\n\n  ⇆ㅤㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤㅤ↻`,
         attachment: fs.createReadStream(data),
@@ -234,42 +236,42 @@ const onReply = async ({ api, event, Reply, message, getLang }) => {
     console.log(error);
   }
 };
-
+ 
 const onStart = async function ({ api, event, args, message, commandName }) {
   if (!args?.length) {
     const imagePath = "./scripts/cmds/assets/image/music.png";
     const imageStream = fs.createReadStream(imagePath);
     return message.reply({
-      body: "=======「 📻 」=======\nSTAR Music / Audio panel\n\n- music [info/-i] <search term | url> | Check song infomation\n- music [video/-v] <search term | url> | Send song through video\n- music [audio/-a] <search term | url> | Send song through audio",
+      body: "=======「 ? 」=======\nSTAR Music / Audio panel\n\n- music [info/-i] <search term | url> | Check song infomation\n- music [video/-v] <search term | url> | Send song through video\n- music [audio/-a] <search term | url> | Send song through audio",
       attachment: imageStream,
     });
   }
-
+ 
   let keywordSearch = args.join(" ");
   const path = `${__dirname}/cache/1.mp3`;
-
+ 
   if (args[0]?.startsWith("https://")) {
     try {
       const { data, info } = await downloadMusicFromYoutube(args[0], path);
-      const body = `=======「 📻 」=======\n\n                       📋\n ${
+      const body = `=======「 ? 」=======\n\n                       ?\n ${
         info.title
       }\n⭐ | Channel: ${info.author}\n⌚ | Upload: ${
         info.publishDate
-      }\n⌛ | Length: ${convertHMS(info.dur)}\n👀 | Views: ${addCommas(
+      }\n⌛ | Length: ${convertHMS(info.dur)}\n? | Views: ${addCommas(
         info.viewCount
-      )}\n🖥 | Delay: ${Math.floor(
+      )}\n? | Delay: ${Math.floor(
         (Date.now() - info.timestart) / 1000
-      )}ms\n🔗 | Download: youtubepp.com/watch?v=${
+      )}ms\n? | Download: youtubepp.com/watch?v=${
         handleReply.link[event.body - 1]
       }\n\n  ⇆ㅤㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤㅤ↻`;
-
+ 
       if (fs.statSync(data).size > 26214400) {
         return message.reply(
           "Không thể gửi file vì dung lượng lớn hơn 25MB.",
           () => fs.unlinkSync(data)
         );
       }
-
+ 
       return message.reply(
         { body, attachment: fs.createReadStream(data) },
         () => fs.unlinkSync(data)
@@ -313,14 +315,14 @@ const onStart = async function ({ api, event, args, message, commandName }) {
       } kết quả trùng với từ khoá tìm kiếm của bạn:${data
         .map(
           (value, index) =>
-            `\n${index + 1} - ${value?.title}\n[ 📻 ] →: ${
+            `\n${index + 1} - ${value?.title}\n[ ? ] →: ${
               value?.channelTitle
             }\n[ ⏰ ] →: ${
               value?.length?.simpleText
-            }\n[ 🔗 ] →: https://youtu.be/${value?.id}\n✦ ━━━━━ ★ ━━━━━ ✦`
+            }\n[ ? ] →: https://youtu.be/${value?.id}\n✦ ━━━━━ ★ ━━━━━ ✦`
         )
         .join("")}\n→ Hãy reply (phản hồi) chọn một trong những tìm kiếm trên`;
-
+ 
       return message.reply(
         {
           body,
@@ -342,7 +344,7 @@ const onStart = async function ({ api, event, args, message, commandName }) {
     }
   }
 };
-
+ 
 function parseAbbreviatedNumber(string) {
   const match = string
     .replace(",", ".")
@@ -357,7 +359,7 @@ function parseAbbreviatedNumber(string) {
   }
   return null;
 }
-
+ 
 const config = {
   name: "music",
   aliases: ["sing"],
@@ -373,17 +375,17 @@ const config = {
   category: "media",
   guide: {
     vi:
-      "   {pn} [video|-v] [<tên video>|<link video>]: dùng để tải video từ youtube." +
-      "\n   {pn} [audio|-a] [<tên video>|<link video>]: dùng để tải audio từ youtube" +
-      "\n   {pn} [info|-i] [<tên video>|<link video>]: dùng để xem thông tin video từ youtube" +
+      "   {pn} [video|-v] [<tên video>|&lt;link video&gt;]: dùng để tải video từ youtube." +
+      "\n   {pn} [audio|-a] [<tên video>|&lt;link video&gt;]: dùng để tải audio từ youtube" +
+      "\n   {pn} [info|-i] [<tên video>|&lt;link video&gt;]: dùng để xem thông tin video từ youtube" +
       "\n   Ví dụ:" +
       "\n    {pn} -v Fallen Kingdom" +
       "\n    {pn} -a Fallen Kingdom" +
       "\n    {pn} -i Fallen Kingdom",
     en:
-      "   {pn} [video|-v] [<video name>|<video link>]: use to download video from youtube." +
-      "\n   {pn} [audio|-a] [<video name>|<video link>]: use to download audio from youtube" +
-      "\n   {pn} [info|-i] [<video name>|<video link>]: use to view video information from youtube" +
+      "   {pn} [video|-v] [&lt;video name&gt;|&lt;video link&gt;]: use to download video from youtube." +
+      "\n   {pn} [audio|-a] [&lt;video name&gt;|&lt;video link&gt;]: use to download audio from youtube" +
+      "\n   {pn} [info|-i] [&lt;video name&gt;|&lt;video link&gt;]: use to view video information from youtube" +
       "\n   Example:" +
       "\n    {pn} -v Fallen Kingdom" +
       "\n    {pn} -a Fallen Kingdom" +
@@ -394,3 +396,5 @@ function addCommas(number) {
   return number.replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 }
 module.exports = { config, onStart, onReply, langs };
+ 
+

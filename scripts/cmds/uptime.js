@@ -93,7 +93,7 @@ module.exports = {
         event.threadID
       )}\n\n⌚ | Time now: ${time}\n📡 | Latency: ${
         Date.now() - timeStart
-      }ms\n🖥 | SPECS:\n- Chip CPU: ${manufacturer} ${brand}\n- Operating system: ${OSPlatform}\n- CPU: ${cpuCount} | Cores: ${physicalCores}\n- Ram: ${gb_fm}GB | Arch: ${arch}\n- Speed: ${speed}MHz\n\n🗺 | Website: https://mdpg2m-8081.csb.app/\n📡 | IP: ${
+      }ms\n🖥 | SPECS:\n- Chip CPU: ${manufacturer} ${brand}\n- Operating system: ${OSPlatform}\n- CPU: ${cpuCount} | Cores: ${physicalCores}\n- Ram: ${gb_fm}GB | Arch: ${arch}\n- Speed: ${speed}MHz\n\n📡 | IP: ${
         nwif["eth0"][0].address
       } - ${nwif["eth0"][0].family}\n📅 | Date: ${date}`,
 

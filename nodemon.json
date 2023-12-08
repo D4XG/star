@@ -1,6 +1,6 @@
 {
-  "ignore": ["node_modules", ".git"],
-  "watch": ["src"],
+  "ignore": ["node_modules", ".git", "build", "logs"],
+  "watch": ["src/scripts", "src/index.js", "src/account.txt"],
   "ext": "js json",
-  "delay": 1000
+  "delay": 3000
 }

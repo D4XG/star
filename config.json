@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
     "email": "dxgst4r@gmail.com",
-    "password": "ConCu321",
+    "password": "ConCu321!",
     "2FASecret": "",
     "i_user": "",
     "proxy": "",
@@ -24,8 +24,8 @@
     "whiteListIds": [],
     "notes": "if you/enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "[ # ] • STAR",
-  "prefix": "#",
+  "nickNameBot": "[ / ] • STAR",
+  "prefix": "/",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://kieuduyanh:MongoDBDAXGCommunity@kieuduyanhsbot.yt75n2a.mongodb.net/",

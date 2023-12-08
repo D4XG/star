@@ -4,7 +4,7 @@
   "description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
   "main": "index.js",
   "engines": {
-    "node": "16.x",
+    "node": "16.20.0",
     "npm": ">=7.0.0"
   },
   "dependencies": {
@@ -38,6 +38,7 @@
     "graphql-query-to-json": "^2.0.1",
     "https": "^1.0.0",
     "i": "^0.3.7",
+    "img": "^3.0.3",
     "isotope-layout": "^3.0.6",
     "jquery": "^3.7.1",
     "jsonlint-mod": "^1.7.6",
